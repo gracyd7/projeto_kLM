@@ -1,6 +1,6 @@
  # Curso da DIO : Bradesco-GenAI & Dados 
 
-## 🔷 Este projeto faz parte do desafio da DIO ( curso Bradesco - GenAI & Dados ) cujo objetivo é a criação de um caderno no NotebookLM sobre algum assunto financeiro introdutório . 
+## 🔷 Este projeto faz parte do desafio da DIO ( curso Bradesco - GenAI & Dados ) para a criação de um caderno no NotebookLM sobre algum assunto financeiro introdutório . 
 ### Sobre este projeto : 
 Realizar um estudo no NotebookLM com 3 a 5 fontes textuais sobre finanças. Será definido objetivos , elaboração de perguntas estratégicas e prompts que auxiliem ao aprendizado do tema escolhido.
 ### Tema escolhido : Iniciante em investimento 
