@@ -7,15 +7,15 @@ Realizar um estudo no NotebookLM com 3 a 5 fontes textuais sobre finanças. Ser�
 
 ### Fontes Textuais : 
 
-1 . site : [Investimento para iniciantes : 9 opções para investir](https://conteudos.xpi.com.br/aprenda-a-investir/relatorios/investimento-para-iniciantes/)
+1. site : [Investimento para iniciantes : 9 opções para investir](https://conteudos.xpi.com.br/aprenda-a-investir/relatorios/investimento-para-iniciantes/)
 
-2.  site : [Como começar a investir do zero com as melhores dicas de investimentos para iniciantes](https://meubolsoemdia.com.br/Materias/investimentos-para-iniciantes)
-3.  
-4.  site : [Investimentos para iniciantes: por onde começar?](https://master.clear.com.br/investimentos-para-iniciantes/)
-5.  
-6.  site : [Perfil do investidor: o que é e como descobrir o seu?](https://www.santander.com.br/blog/perfil-investidor)
-7.  
-8.  pdf  : [Tratado de Estrutura e Prática de Investimentos para o Mercado Brasileiro: Do Planejamento Estratégico à Alocação de Ativos para Iniciantes]
+2. site : [Como começar a investir do zero com as melhores dicas de investimentos para iniciantes](https://meubolsoemdia.com.br/Materias/investimentos-para-iniciantes)
+  
+3. site : [Investimentos para iniciantes: por onde começar?](https://master.clear.com.br/investimentos-para-iniciantes/)
+  
+4. site : [Perfil do investidor: o que é e como descobrir o seu?](https://www.santander.com.br/blog/perfil-investidor)
+  
+5. pdf  : [Tratado de Estrutura e Prática de Investimentos para o Mercado Brasileiro: Do Planejamento Estratégico à Alocação de Ativos para Iniciantes]
  
 Para um iniciante, o que precisa de saber primeiramente é que investir não é um "bicho de sete cabeças", mas exige **organização financeira**, 
 definição de **objetivos claros** e o conhecimento do seu **perfil de investidor**. Antes de colocar o seu dinheiro em qualquer produto, 
