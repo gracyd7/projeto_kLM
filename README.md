@@ -1,6 +1,6 @@
  # Curso da DIO : Bradesco-GenAI & Dados 
 
-## 🎯 Este projeto faz parte do desafio da DIO ( curso Bradesco - GenAI & Dados ) cujo objetivo é a criação de um caderno no NotebookLM com o tema proposto . 
+## 🔷 Este projeto faz parte do desafio da DIO ( curso Bradesco - GenAI & Dados ) cujo objetivo é a criação de um caderno no NotebookLM com o tema proposto . 
 ### Tema escolhido : Iniciante em investimento 
 
 Para um iniciante, o que precisa de saber primeiramente é que investir não é um "bicho de sete cabeças", mas exige **organização financeira**, 
@@ -10,7 +10,7 @@ a instituições ou empresas.
 
 Abaixo, apresento os pilares essenciais para quem está a dar os primeiros passos:
 
-### 1. Defina Objetivos e a Reserva de Emergência
+### 🎯 1. Defina Objetivos e a Reserva de Emergência
 
 Ninguém deve começar a investir sem saber para que quer o dinheiro e em que prazo precisará dele.
 
