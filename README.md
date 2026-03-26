@@ -5,6 +5,10 @@
 Realizar um estudo no NotebookLM com 3 a 5 fontes textuais sobre finanças. Será definido objetivos , elaboração de perguntas estratégicas e prompts que auxiliem ao aprendizado do tema escolhido.
 ### Tema escolhido : Iniciante em investimento 
 
+### Fontes Textuais :
+
+1 .
+
 Para um iniciante, o que precisa de saber primeiramente é que investir não é um "bicho de sete cabeças", mas exige **organização financeira**, 
 definição de **objetivos claros** e o conhecimento do seu **perfil de investidor**. Antes de colocar o seu dinheiro em qualquer produto, 
 é fundamental entender a lógica de que investir é fazer o dinheiro trabalhar para si, gerando uma remuneração (juros) em troca de o emprestar 
