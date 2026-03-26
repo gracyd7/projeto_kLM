@@ -1,6 +1,6 @@
  # Curso da DIO : Bradesco-GenAI & Dados 
 
-## Projeto no NotbookLM sobre algum assunto financeiro introdutório.
+## Este projeto faz parte do desafio da DIO ( curso Bradesco - GenAI & Dados ) cujo objetivo é a criação de um caderno no NotebookLM com o tema proposto . 
 ### Tema escolhido : Iniciante em investimento 
 
 Para um iniciante, o que precisa de saber primeiramente é que investir não é um "bicho de sete cabeças", mas exige **organização financeira**, 
