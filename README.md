@@ -16,7 +16,13 @@ Realizar um estudo no NotebookLM com 3 a 5 fontes textuais sobre finanças. Ser�
 4. site : [Perfil do investidor: o que é e como descobrir o seu?](https://www.santander.com.br/blog/perfil-investidor)
   
 5. pdf  : [Tratado de Estrutura e Prática de Investimentos para o Mercado Brasileiro: Do Planejamento Estratégico à Alocação de Ativos para Iniciantes](./Tratado_Investimentos.pdf)
- 
+
+ ## Objetivos : 
+
+ 1. Geral : Inserir uma base de conhecimento sobre investimentos ao iniciante
+
+ 2. Específicos : Definir termos importantes sobre investimentos , tipos de investimentos , perfil do investidor , erros a evitar . 
+                 
 Para um iniciante, o que precisa de saber primeiramente é que investir não é um "bicho de sete cabeças", mas exige **organização financeira**, 
 definição de **objetivos claros** e o conhecimento do seu **perfil de investidor**. Antes de colocar o seu dinheiro em qualquer produto, 
 é fundamental entender a lógica de que investir é fazer o dinheiro trabalhar para si, gerando uma remuneração (juros) em troca de o emprestar 
