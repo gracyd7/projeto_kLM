@@ -232,7 +232,7 @@ Para investimentos de Renda Fixa (como Tesouro Direto e CDBs), a tabela de alíq
 | De 361 a 720 dias (1 a 2 anos) | **17,5%** |
 | Acima de 721 dias (2 anos ou mais) | **15%** |
 
-> **`Como isto impacta os seus 50 mil reais na prática?`**
+ ### `Como isto impacta os seus 50 mil reais na prática?`**
 
 Se decidir resgatar o dinheiro rapidamente, o impacto no seu lucro será maior. Por exemplo:
 
@@ -240,14 +240,21 @@ Se decidir resgatar o dinheiro rapidamente, o impacto no seu lucro será maior. 
 
 **Longo Prazo (> 2 anos):** A "mordida" do imposto cai para 15%, deixando uma parte maior do lucro no seu bolso
 
-> **`Outros custos que reduzem o lucro final`**
+ ### `Outros custos que reduzem o lucro final`
 
 Além do IR regressivo, deve estar atento a outros custos mencionados nas fontes que podem corroer a rentabilidade dos seus 50 mil:
 
 ◼ **IOF (Imposto sobre Operações Financeiras):** Se resgatar o dinheiro nos primeiros 30 dias, este imposto incide sobre os rendimentos, podendo chegar a 96% no primeiro dia. 
 Após o 30.º dia, a alíquota passa a ser zero.
 
-◼ **Taxas de Administração e Custódia:** Fundos de investimento podem cobrar taxas de administração pelo trabalho do gestor
-. No caso do Tesouro Direto, existe uma taxa de custódia da B3 de 0,25% ao ano para valores acima de R$ 10 mil
+◼ **Taxas de Administração e Custódia:** Fundos de investimento podem cobrar taxas de administração pelo trabalho do gestor.
+No caso do Tesouro Direto, existe uma taxa de custódia da B3 de 0,25% ao ano para valores acima de R$ 10 mil
 
+### `Estratégias para minimizar o impacto dos impostos`
 
+◼ **Invista em Títulos Isentos:** Opções como LCI, LCA e debêntures incentivadas são isentas de Imposto de Renda para pessoas físicas.
+Nestes casos, o lucro que vê na simulação é exatamente o que cairá na sua conta.
+
+◼ **Use o Tempo a seu Favor:** Planeie manter os 50 mil aplicados por mais de dois anos para atingir a alíquota mínima de 15%.
+
+◼ **Avalie a Rentabilidade Líquida:**  Nem sempre um investimento isento é melhor. Muitas vezes, um CDB que paga imposto pode render mais do que a poupança (que é isenta), mesmo após o desconto do IR.
