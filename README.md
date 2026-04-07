@@ -188,3 +188,28 @@ Com os 50 mil reais, a forma como irá distribuir o dinheiro depende da sua tole
 
 **◼Perfil Arrojado/Agressivo:** Aceita oscilações para ganhar mais a longo prazo. Pode diversificar entre Renda Fixa e ativos de Renda Variável, como Ações e ETFs
 
+
+### 3. Opções de Investimento Recomendadas
+
+De acordo com as fontes, estas são as opções mais indicadas para compor a sua carteira inicial:
+
+| Investimento | Tipo | Vantagem Principal | Risco |
+| :--- | :--- | :--- | :--- |
+| **Tesouro Direto** | Renda Fixa | Segurança máxima (garantia do Governo). | Baixo |
+| **CDB** | Renda Fixa | Garantia do FGC até R$ 250 mil. | Baixo |
+| **LCI / LCA** | Renda Fixa | **Isenção de Imposto de Renda** para pessoa física. | Baixo |
+| **FIIs** | Renda Variável | Recebimento de **renda passiva mensal** (alugueres). | Médio/Alto |
+| **ETFs** | Renda Variável | Diversificação instantânea ao replicar índices (ex: Ibovespa). | Alto |
+
+
+### 4. Dicas de Ouro para os seus 50 Mil
+
+◼**Diversificação:** É a regra número um. Distribua o valor entre diferentes classes de ativos para reduzir riscos.
+
+◼**Aproveite os Juros Compostos:** O tempo é o seu maior aliado; quanto mais tempo o dinheiro ficar aplicado, maior será o efeito multiplicador.
+
+◼**Atenção aos Custos:** Verifique taxas de administração e a tabela regressiva do Imposto de Renda antes de escolher um produto.
+
+◼**Evite a Poupança:** Embora pareça simples, a sua rentabilidade é muito inferior a outras opções de Renda Fixa igualmente seguras
+.
+
