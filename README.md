@@ -232,7 +232,7 @@ Para investimentos de Renda Fixa (como Tesouro Direto e CDBs), a tabela de alíq
 | De 361 a 720 dias (1 a 2 anos) | **17,5%** |
 | Acima de 721 dias (2 anos ou mais) | **15%** |
 
-**`Como isto impacta os seus 50 mil reais na prática?`**
+> **`Como isto impacta os seus 50 mil reais na prática?`**
 
 Se decidir resgatar o dinheiro rapidamente, o impacto no seu lucro será maior. Por exemplo:
 
@@ -240,7 +240,7 @@ Se decidir resgatar o dinheiro rapidamente, o impacto no seu lucro será maior. 
 
 **Longo Prazo (> 2 anos):** A "mordida" do imposto cai para 15%, deixando uma parte maior do lucro no seu bolso
 
-**`Outros custos que reduzem o lucro final`**
+> **`Outros custos que reduzem o lucro final`**
 
 Além do IR regressivo, deve estar atento a outros custos mencionados nas fontes que podem corroer a rentabilidade dos seus 50 mil:
 
