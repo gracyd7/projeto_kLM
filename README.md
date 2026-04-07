@@ -213,4 +213,25 @@ De acordo com as fontes, estas são as opções mais indicadas para compor a sua
 ◼**Evite a Poupança:** Embora pareça simples, a sua rentabilidade é muito inferior a outras opções de Renda Fixa igualmente seguras
 .
 
+### 4️⃣ COMO OS IMPOSTOS REGRESSIVOS AFETAM O LUCRO FINAL DESTE VALOR?
+
+Os impostos regressivos, especificamente o Imposto de Renda (IR), afetam o lucro final dos seus 50 mil reais ao reduzir a rentabilidade líquida de acordo com o tempo que o dinheiro permanece aplicado.
+
+A lógica é simples: quanto mais tempo o dinheiro ficar investido, menor será a percentagem de imposto paga sobre os rendimentos.
+
+É fundamental notar que o imposto incide apenas sobre o lucro (o que o dinheiro rendeu) e não sobre o capital inicial de 50 mil reais.
+
+> ### `Tabela Regressiva do Imposto de Renda`
+
+Para investimentos de Renda Fixa (como Tesouro Direto e CDBs), a tabela de alíquotas funciona da seguinte forma
+
+| Tempo de Aplicação | Alíquota de IR (sobre o lucro) |
+| :--- | :--- | 
+| Até 180 dias (menos de 6 meses) | **22,5%** |
+| De 181 a 360 dias (6 meses a 1 ano) | **20%** |
+| De 361 a 720 dias (1 a 2 anos) | **17,5%** |
+| Acima de 721 dias (2 anos ou mais) | **15%** |
+
+
+
 
