@@ -202,7 +202,7 @@ De acordo com as fontes, estas são as opções mais indicadas para compor a sua
 | **ETFs** | Renda Variável | Diversificação instantânea ao replicar índices (ex: Ibovespa). | Alto |
 
 
-`4. Dicas de Ouro para os seus 50 Mil
+`4. Dicas de Ouro para os seus 50 mil
 
 ◼**Diversificação:** É a regra número um. Distribua o valor entre diferentes classes de ativos para reduzir riscos.
 
@@ -212,4 +212,5 @@ De acordo com as fontes, estas são as opções mais indicadas para compor a sua
 
 ◼**Evite a Poupança:** Embora pareça simples, a sua rentabilidade é muito inferior a outras opções de Renda Fixa igualmente seguras
 .
-`3. Opções de Investimento Recomendadas`
+
+
