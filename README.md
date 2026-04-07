@@ -36,7 +36,7 @@ a instituições ou empresas.
 
 **Abaixo, apresento os pilares essenciais para quem está a dar os primeiros passos:**
 
-### 🎯 1. Defina Objetivos e a Reserva de Emergência
+###  1. Defina Objetivos e a Reserva de Emergência
 
 Ninguém deve começar a investir sem saber para que quer o dinheiro e em que prazo precisará dele.
 
@@ -44,3 +44,43 @@ Ninguém deve começar a investir sem saber para que quer o dinheiro e em que pr
     de **alta liquidez** (que podem ser levantados a qualquer momento).
 * **Objetivos de Curto, Médio e Longo Prazo:** Seja para trocar de carro, comprar casa ou preparar a reforma, cada meta ditará o tipo de investimento
     mais adequado.
+
+### 2. Descubra o seu Perfil de Investidor
+
+As instituições financeiras utilizam um questionário (conhecido como suitability) para entender a sua tolerância ao risco.
+
+Os perfis dividem-se geralmente em:
+
+Conservador: Prioriza a segurança e estabilidade, aceitando rentabilidades mais modestas.
+
+Moderado: Procura um equilíbrio entre segurança e rentabilidade, aceitando um pouco mais de risco para ganhar mais.
+
+Arrojado/Agressivo: Tem maior experiência e tolerância a perdas no curto prazo, focando em retornos expressivos no longo prazo através da renda variável.
+
+
+### 3. O "Tripé" dos Investimentos
+
+Ao escolher uma aplicação, deve equilibrar três características fundamentais:
+
+Liquidez: A facilidade de transformar o investimento em dinheiro disponível.
+
+Rentabilidade: O retorno financeiro (juros) esperado.
+
+Segurança: O nível de risco de perda. Investimentos como o Tesouro Direto ou CDBs (protegidos pelo Fundo Garantidor de Crédito - FGC) são considerados mais seguros
+
+### 4. Renda Fixa vs. Renda Variável
+
+É crucial distinguir onde está a aplicar o seu capital:
+
+**Tipo**                   **Previsibilidade**            **Risco**               **Exemplos**
+Renda Fixa             Rentabilidade previsível        Baixo a Moderado     Tesouro Direto, CDB, LCI/LCA
+                         definida  no início      
+                         
+Renda Variável        Retorno imprevisível; o valor        Alto              Ações, Fundos Imobiliários, ETFs
+                      oscila conforme o mercado.
+
+
+
+
+
+
