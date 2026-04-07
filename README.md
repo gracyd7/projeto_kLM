@@ -23,9 +23,11 @@ Realizar um estudo no NotebookLM com 3 a 5 fontes textuais sobre finanças. Ser�
 
  2. Específicos : Fazer uso de prompts específicos para definir termos importantes sobre investimentos , tipos de investimentos , perfil do investidor , erros a evitar . 
 
-### :chart_with_upwards_trend: INVESTIMENTOS PARA INICIANTE 
 
-1️⃣ - O QUE UM INICIANTE EM INVESTIMENTOS PRECISA SABER, PRIMEIRAMENTE? 
+## :chart_with_upwards_trend: INVESTIMENTOS PARA INICIANTE 
+
+
+### 1️⃣  O QUE UM INICIANTE EM INVESTIMENTOS PRECISA SABER, PRIMEIRAMENTE? 
 
 Para um iniciante, o que precisa de saber primeiramente é que investir não é um "bicho de sete cabeças", mas exige **organização financeira**, 
 definição de **objetivos claros** e o conhecimento do seu **perfil de investidor**. Antes de colocar o seu dinheiro em qualquer produto, 
