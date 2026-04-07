@@ -178,7 +178,7 @@ Antes de pensar em grandes lucros, deve garantir a sua segurança para imprevist
 ◼**Sugestões dos especialistas:** Tesouro Selic (título público muito seguro) ou CDBs com liquidez diária que rendam pelo menos 100% do CDI. 
 
 
-> ## 2. Definir o seu Perfil de Investidor
+> #### 2. Definir o seu Perfil de Investidor
 
 Com os 50 mil reais, a forma como irá distribuir o dinheiro depende da sua tolerância ao risco, identificada através do questionário de suitability.
 
