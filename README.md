@@ -173,20 +173,20 @@ A indicação principal para quem tem este montante é não investir tudo de uma
 
 Antes de pensar em grandes lucros, deve garantir a sua segurança para imprevistos.
 
-**◼ Onde colocar:** Em investimentos de alta liquidez (que permitem o resgate imediato) e baixo risco.
+◼**Onde colocar:** Em investimentos de alta liquidez (que permitem o resgate imediato) e baixo risco.
 
-**◼ Sugestões dos especialistas:** Tesouro Selic (título público muito seguro) ou CDBs com liquidez diária que rendam pelo menos 100% do CDI. 
+◼**Sugestões dos especialistas:** Tesouro Selic (título público muito seguro) ou CDBs com liquidez diária que rendam pelo menos 100% do CDI. 
 
 
 **2. Definir o seu Perfil de Investidor**
 
 Com os 50 mil reais, a forma como irá distribuir o dinheiro depende da sua tolerância ao risco, identificada através do questionário de suitability.
 
-**◼Perfil Conservador:** Prioriza a segurança. A indicação seria alocar a maior parte em Renda Fixa, como Tesouro Direto, CDBs, LCI ou LCA.
+◼**Perfil Conservador:** Prioriza a segurança. A indicação seria alocar a maior parte em Renda Fixa, como Tesouro Direto, CDBs, LCI ou LCA.
 
-**◼Perfil Moderado:** Busca equilíbrio. Pode manter uma base em Renda Fixa e começar a explorar Fundos Multimercado ou uma pequena percentagem em Fundos Imobiliários (FIIs).
+◼**Perfil Moderado:** Busca equilíbrio. Pode manter uma base em Renda Fixa e começar a explorar Fundos Multimercado ou uma pequena percentagem em Fundos Imobiliários (FIIs).
 
-**◼Perfil Arrojado/Agressivo:** Aceita oscilações para ganhar mais a longo prazo. Pode diversificar entre Renda Fixa e ativos de Renda Variável, como Ações e ETFs
+◼**Perfil Arrojado/Agressivo:** Aceita oscilações para ganhar mais a longo prazo. Pode diversificar entre Renda Fixa e ativos de Renda Variável, como Ações e ETFs
 
 
  **3. Opções de Investimento Recomendadas**
@@ -202,7 +202,7 @@ De acordo com as fontes, estas são as opções mais indicadas para compor a sua
 | **ETFs** | Renda Variável | Diversificação instantânea ao replicar índices (ex: Ibovespa). | Alto |
 
 
-**4. Dicas de Ouro para os seus 50 Mil**
+|**4. Dicas de Ouro para os seus 50 Mil**|
 
 ◼**Diversificação:** É a regra número um. Distribua o valor entre diferentes classes de ativos para reduzir riscos.
 
