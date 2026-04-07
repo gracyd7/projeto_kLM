@@ -101,7 +101,7 @@ Ao escolher uma aplicação, deve equilibrar três características fundamentais
 **Ignorar taxas e impostos:** Custos como o Imposto de Renda (que costuma ser regressivo na renda fixa) e taxas de administração podem corroer o seu lucro
 
 
-### 2️⃣ QAUIS INVESTIMENTOS EXISTEM E A DEFINIÇÃO DE CADA UMA? 
+### 2️⃣ QUAIS INVESTIMENTOS EXISTEM E A DEFINIÇÃO DE CADA UMA? 
 
 Os investimentos são divididos principalmente em dois grandes grupos: 
 
@@ -111,23 +111,23 @@ Existe ainda a *Renda Híbrida*, que combina características de ambas as catego
 
 **Abaixo, detalho os principais tipos de investimentos disponíveis no mercado:**
 
-**1. Investimentos de Renda Fixa**
+**1. INVESTIMENTOS DE RENDA FIXA**
 
 Nesta categoria, o investidor conhece as regras de rendimento (ou uma estimativa próxima) no momento da aplicação.É considerada ideal para reserva de emergência e perfis conservadores.
 
-**➡ Tesouro Direto:**
+**✔ Tesouro Direto:**
 
 Programa que permite a compra de títulos públicos federais. É considerado um dos investimentos mais seguros do país por ter a garantia do Governo Nacional.
 
-**➡ CDB (Certificado de Depósito Bancário):**
+**✔ CDB (Certificado de Depósito Bancário):**
 
 Títulos emitidos por bancos para captar recursos. Em troca de "emprestar" o dinheiro ao banco, o investidor recebe juros. Conta com a proteção do FGC (até R$ 250 mil).
 
-**➡ LCI e LCA (Letras de Crédito Imobiliário e do Agronegócio):**
+**✔ LCI e LCA (Letras de Crédito Imobiliário e do Agronegócio):**
 
 Títulos que financiam os setores de imóveis e agronegócio. A grande vantagem é a isenção de Imposto de Renda para pessoas físicas.
 
-**➡ Fundos de Renda Fixa:**
+**✔ Fundos de Renda Fixa:**
 
 Carteiras geridas por profissionais que aplicam a maior parte do património em diversos títulos de renda fixa.
 
