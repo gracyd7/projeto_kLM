@@ -232,6 +232,22 @@ Para investimentos de Renda Fixa (como Tesouro Direto e CDBs), a tabela de alíq
 | De 361 a 720 dias (1 a 2 anos) | **17,5%** |
 | Acima de 721 dias (2 anos ou mais) | **15%** |
 
+**`Como isto impacta os seus 50 mil reais na prática?`**
 
+Se decidir resgatar o dinheiro rapidamente, o impacto no seu lucro será maior. Por exemplo:
+
+**Curto Prazo (< 6 meses):** O governo retira quase um quarto (22,5%) de tudo o que os seus 50 mil renderam.
+
+**Longo Prazo (> 2 anos):** A "mordida" do imposto cai para 15%, deixando uma parte maior do lucro no seu bolso
+
+**`Outros custos que reduzem o lucro final`**
+
+Além do IR regressivo, deve estar atento a outros custos mencionados nas fontes que podem corroer a rentabilidade dos seus 50 mil:
+
+◼ **IOF (Imposto sobre Operações Financeiras):** Se resgatar o dinheiro nos primeiros 30 dias, este imposto incide sobre os rendimentos, podendo chegar a 96% no primeiro dia. 
+Após o 30.º dia, a alíquota passa a ser zero.
+
+◼ **Taxas de Administração e Custódia:** Fundos de investimento podem cobrar taxas de administração pelo trabalho do gestor
+. No caso do Tesouro Direto, existe uma taxa de custódia da B3 de 0,25% ao ano para valores acima de R$ 10 mil
 
 
