@@ -189,7 +189,7 @@ Com os 50 mil reais, a forma como irá distribuir o dinheiro depende da sua tole
 ◼**Perfil Arrojado/Agressivo:** Aceita oscilações para ganhar mais a longo prazo. Pode diversificar entre Renda Fixa e ativos de Renda Variável, como Ações e ETFs
 
 
- >**3. Opções de Investimento Recomendadas**
+ > ### 3. Opções de Investimento Recomendadas
 
 De acordo com as fontes, estas são as opções mais indicadas para compor a sua carteira inicial:
 
