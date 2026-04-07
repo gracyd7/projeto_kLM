@@ -7,16 +7,20 @@ Realizar um estudo no NotebookLM com 3 a 5 fontes textuais sobre finanças. Ser�
 
 ### Fontes Textuais : 
 
-1. site : [Investimento para iniciantes : 9 opções para investir](https://conteudos.xpi.com.br/aprenda-a-investir/relatorios/investimento-para-iniciantes/)
+1. sites :
+ 
+ [Investimento para iniciantes : 9 opções para investir](https://conteudos.xpi.com.br/aprenda-a-investir/relatorios/investimento-para-iniciantes/)
 
-2. site : [Como começar a investir do zero com as melhores dicas de investimentos para iniciantes](https://meubolsoemdia.com.br/Materias/investimentos-para-iniciantes)
+ [Como começar a investir do zero com as melhores dicas de investimentos para iniciantes](https://meubolsoemdia.com.br/Materias/investimentos-para-iniciantes)
   
-3. site : [Investimentos para iniciantes: por onde começar?](https://master.clear.com.br/investimentos-para-iniciantes/)
+ [Investimentos para iniciantes: por onde começar?](https://master.clear.com.br/investimentos-para-iniciantes/)
   
-4. site : [Perfil do investidor: o que é e como descobrir o seu?](https://www.santander.com.br/blog/perfil-investidor)
+ [Perfil do investidor: o que é e como descobrir o seu?](https://www.santander.com.br/blog/perfil-investidor)
   
-5. pdf  : [Tratado de Estrutura e Prática de Investimentos para o Mercado Brasileiro: Do Planejamento Estratégico à Alocação de Ativos para Iniciantes](./Tratado_Investimentos.pdf)
-
+2. pdf  :
+ 
+ [Tratado de Estrutura e Prática de Investimentos para o Mercado Brasileiro: Do Planejamento Estratégico à Alocação de Ativos para Iniciantes](./Tratado_Investimentos.pdf)\
+ 
  ### Objetivos : 
 
  1. Geral : Fazer uso do NotebooKLM para inserir uma base de conhecimento sobre investimentos ao iniciante.
