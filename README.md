@@ -203,6 +203,7 @@ De acordo com as fontes, estas são as opções mais indicadas para compor a sua
 
 
 <[!NOTE]
+
 <**4. Dicas de Ouro para os seus 50 Mil**
 
 ◼**Diversificação:** É a regra número um. Distribua o valor entre diferentes classes de ativos para reduzir riscos.
