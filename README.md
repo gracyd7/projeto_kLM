@@ -212,3 +212,4 @@ De acordo com as fontes, estas são as opções mais indicadas para compor a sua
 
 ◼**Evite a Poupança:** Embora pareça simples, a sua rentabilidade é muito inferior a outras opções de Renda Fixa igualmente seguras
 .
+`3. Opções de Investimento Recomendadas`
