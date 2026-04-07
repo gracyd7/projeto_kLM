@@ -148,6 +148,15 @@ Aqui, não há garantias de ganho e os preços oscilam conforme a economia, pol�
 **✔Previdência Privada:** Focada no longo prazo e no planeamento da reforma (aposentadoria). Pode oferecer benefícios fiscais dependendo do modelo escolhido
 
 
+### Resumo Comparativo
+
+| Tipo de Investimento | Previsibilidade | Risco | Principal Característica |
+| :--- | :--- | :--- | :--- |
+| **Renda Fixa** | Alta | Baixo a Moderado | Segurança e estabilidade. |
+| **Renda Variável** | Baixa | Alto | Maior potencial de lucro a longo prazo. |
+| **Híbrida (Multimercado)** | Média | Moderado a Alto | Diversificação entre vários mercados. |
+
+Para dar o próximo passo, é essencial saber qual é o seu perfil de investidor (conservador, moderado ou arrojado), pois isso determinará qual destas opções é a mais adequada para si
 
 
 
