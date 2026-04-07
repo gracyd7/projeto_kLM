@@ -169,7 +169,7 @@ A indicação principal para quem tem este montante é não investir tudo de uma
 
 **Deve seguir um roteiro estratégico baseado na sua segurança e nos seus objetivos:**
 
-**1. Criar a Reserva de Emergência**
+> ## 1. Criar a Reserva de Emergência
 
 Antes de pensar em grandes lucros, deve garantir a sua segurança para imprevistos.
 
@@ -178,7 +178,7 @@ Antes de pensar em grandes lucros, deve garantir a sua segurança para imprevist
 ◼**Sugestões dos especialistas:** Tesouro Selic (título público muito seguro) ou CDBs com liquidez diária que rendam pelo menos 100% do CDI. 
 
 
-**2. Definir o seu Perfil de Investidor**
+> ## 2. Definir o seu Perfil de Investidor
 
 Com os 50 mil reais, a forma como irá distribuir o dinheiro depende da sua tolerância ao risco, identificada através do questionário de suitability.
 
