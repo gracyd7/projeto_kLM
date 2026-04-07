@@ -101,5 +101,55 @@ Ao escolher uma aplicação, deve equilibrar três características fundamentais
 **Ignorar taxas e impostos:** Custos como o Imposto de Renda (que costuma ser regressivo na renda fixa) e taxas de administração podem corroer o seu lucro
 
 
+### 2️⃣ QAUIS INVESTIMENTOS EXISTEM E A DEFINIÇÃO DE CADA UMA? 
+
+Os investimentos são divididos principalmente em dois grandes grupos: 
+
+*Renda Fixa*, onde a rentabilidade é previsível, e *Renda Variável*, onde o retorno oscila conforme o mercado. 
+
+Existe ainda a *Renda Híbrida*, que combina características de ambas as categorias.
+
+**Abaixo, detalho os principais tipos de investimentos disponíveis no mercado:**
+
+**1. Investimentos de Renda Fixa**
+
+Nesta categoria, o investidor conhece as regras de rendimento (ou uma estimativa próxima) no momento da aplicação.É considerada ideal para reserva de emergência e perfis conservadores.
+
+**➡ Tesouro Direto:**
+
+Programa que permite a compra de títulos públicos federais. É considerado um dos investimentos mais seguros do país por ter a garantia do Governo Nacional.
+
+**➡ CDB (Certificado de Depósito Bancário):**
+
+Títulos emitidos por bancos para captar recursos. Em troca de "emprestar" o dinheiro ao banco, o investidor recebe juros. Conta com a proteção do FGC (até R$ 250 mil).
+
+**➡ LCI e LCA (Letras de Crédito Imobiliário e do Agronegócio):**
+
+Títulos que financiam os setores de imóveis e agronegócio. A grande vantagem é a isenção de Imposto de Renda para pessoas físicas.
+
+**➡ Fundos de Renda Fixa:**
+
+Carteiras geridas por profissionais que aplicam a maior parte do património em diversos títulos de renda fixa.
+
+**2. Investimentos de Renda Variável**
+
+Aqui, não há garantias de ganho e os preços oscilam conforme a economia, política e o desempenho das empresas. O potencial de retorno é maior, mas o risco também é elevado.
+
+**➡ Ações:** Representam pequenas partes do capital de empresas listadas na Bolsa de Valores. Ao comprá-las, o investidor torna-se sócio da empresa, participando nos lucros (dividendos) e prejuízos.
+
+**➡Fundos Imobiliários (FIIs):** Permitem investir no mercado de imóveis sem ter de comprar um imóvel físico. O investidor recebe uma renda passiva mensal (semelhante a alugueres).
+
+**➡ETFs (Exchange Traded Funds):** São fundos que replicam índices de referência, como o Ibovespa. Oferecem diversificação instantânea com um único investimento.
+
+**➡Câmbio e Ouro:** Investimentos baseados na variação de moedas estrangeiras (como o Dólar) ou em metais preciosos, usados muitas vezes como proteção de património.
+
+**3. Outros Tipos de Investimentos**
+
+**➡Fundos Multimercado:** Pertencem à renda híbrida. Investem em várias classes de ativos (renda fixa, ações, câmbio) para buscar retornos em diferentes cenários económicos.
+
+**➡Previdência Privada:** Focada no longo prazo e no planeamento da reforma (aposentadoria). Pode oferecer benefícios fiscais dependendo do modelo escolhido
+
+
+
 
 
