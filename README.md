@@ -17,7 +17,7 @@ Realizar um estudo no NotebookLM com 3 a 5 fontes textuais sobre finanças. Ser�
   
 5. pdf  : [Tratado de Estrutura e Prática de Investimentos para o Mercado Brasileiro: Do Planejamento Estratégico à Alocação de Ativos para Iniciantes](./Tratado_Investimentos.pdf)
 
- ## Objetivos : 
+ ### Objetivos : 
 
  1. Geral : Fazer uso do NotebooKLM para inserir uma base de conhecimento sobre investimentos ao iniciante.
 
@@ -34,7 +34,7 @@ definição de **objetivos claros** e o conhecimento do seu **perfil de investid
 é fundamental entender a lógica de que investir é fazer o dinheiro trabalhar para si, gerando uma remuneração (juros) em troca de o emprestar 
 a instituições ou empresas.
 
-Abaixo, apresento os pilares essenciais para quem está a dar os primeiros passos:
+**Abaixo, apresento os pilares essenciais para quem está a dar os primeiros passos:**
 
 ### 🎯 1. Defina Objetivos e a Reserva de Emergência
 
