@@ -23,7 +23,7 @@ Realizar um estudo no NotebookLM com 3 a 5 fontes textuais sobre finanças. Ser�
 
  2. Específicos : Fazer uso de prompts específicos para definir termos importantes sobre investimentos , tipos de investimentos , perfil do investidor , erros a evitar . 
 
-### INVESTIMENTOS PARA INICIANTE 
+### :chart_with_upwards_trend: INVESTIMENTOS PARA INICIANTE 
 
 1 - O QUE UM INICIANTE EM INVESTIMENTOS PRECISA SABER, PRIMEIRAMENTE? 
 
