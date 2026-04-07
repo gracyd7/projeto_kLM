@@ -51,22 +51,22 @@ As instituições financeiras utilizam um questionário (conhecido como suitabil
 
 Os perfis dividem-se geralmente em:
 
-✔ Conservador: Prioriza a segurança e estabilidade, aceitando rentabilidades mais modestas.
+✔ **Conservador:** Prioriza a segurança e estabilidade, aceitando rentabilidades mais modestas.
 
-✔ Moderado: Procura um equilíbrio entre segurança e rentabilidade, aceitando um pouco mais de risco para ganhar mais.
+✔ **Moderado:** Procura um equilíbrio entre segurança e rentabilidade, aceitando um pouco mais de risco para ganhar mais.
 
-✔ Arrojado/Agressivo: Tem maior experiência e tolerância a perdas no curto prazo, focando em retornos expressivos no longo prazo através da renda variável.
+✔ **Arrojado/Agressivo:** Tem maior experiência e tolerância a perdas no curto prazo, focando em retornos expressivos no longo prazo através da renda variável.
 
 
 ### 3. O "Tripé" dos Investimentos
 
 Ao escolher uma aplicação, deve equilibrar três características fundamentais:
 
-✔ Liquidez: A facilidade de transformar o investimento em dinheiro disponível.
+✔ **Liquidez:** A facilidade de transformar o investimento em dinheiro disponível.
 
-✔ Rentabilidade: O retorno financeiro (juros) esperado.
+✔ **Rentabilidade:** O retorno financeiro (juros) esperado.
 
-✔ Segurança: O nível de risco de perda. Investimentos como o Tesouro Direto ou CDBs (protegidos pelo Fundo Garantidor de Crédito - FGC) são considerados mais seguros
+✔ **Segurança:** O nível de risco de perda. Investimentos como o Tesouro Direto ou CDBs (protegidos pelo Fundo Garantidor de Crédito - FGC) são considerados mais seguros
 
 
 ### 4. Renda Fixa vs. Renda Variável
@@ -77,6 +77,13 @@ Ao escolher uma aplicação, deve equilibrar três características fundamentais
 | :--- | :--- | :--- | :--- |
 | **Renda Fixa** | Rentabilidade previsível ou definida no início. | Baixo a Moderado. | Tesouro Direto, CDB, LCI/LCA. |
 | **Renda Variável** | Retorno imprevisível; o valor oscila conforme o mercado. | Alto. | Ações, Fundos Imobiliários, ETFs. |
+
+
+### 5. O Poder do Tempo e dos Juros Compostos
+
+. O tempo é o melhor aliado do investidor iniciante.
+. Graças aos juros compostos (juros sobre juros), o capital cresce exponencialmente ao longo dos anos
+. Quanto mais cedo começar, menor será o esforço mensal necessário para atingir grandes patrimónios no futuro
 
 
 
