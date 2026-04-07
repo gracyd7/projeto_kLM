@@ -17,7 +17,9 @@ Realizar um estudo no NotebookLM com 3 a 5 fontes textuais sobre finanças. Ser�
    
    [Perfil do investidor: o que é e como descobrir o seu?](https://www.santander.com.br/blog/perfil-investidor)
   
-4. pdf  :  [Tratado de Estrutura e Prática de Investimentos para o Mercado Brasileiro: Do Planejamento Estratégico à Alocação de Ativos para Iniciantes](./Tratado_Investimentos.pdf)\
+2. pdf  :
+
+   [Tratado de Estrutura e Prática de Investimentos para o Mercado Brasileiro: Do Planejamento Estratégico à Alocação de Ativos para Iniciantes](./Tratado_Investimentos.pdf)\
  
  ### Objetivos : 
 
@@ -159,4 +161,19 @@ Aqui, não há garantias de ganho e os preços oscilam conforme a economia, pol�
 Para dar o próximo passo, é essencial saber qual é o seu perfil de investidor (conservador, moderado ou arrojado), pois isso determinará qual destas opções é a mais adequada para si
 
 
+### 3️⃣ O QUE VOCÊ INDICARIA AO INICIANTE QUE ESTÁ SEM DÍVIDAS E COM UM VALOR DE 50 MIL PRA INVESTIR?
+
+Parabéns por ter atingido este patamar de organização financeira! Estar sem dívidas e com um capital inicial de 50 mil reais coloca-o numa posição privilegiada para começar a construir património.
+
+A indicação principal para quem tem este montante é não investir tudo de uma vez num único produto. 
+
+**Deve seguir um roteiro estratégico baseado na sua segurança e nos seus objetivos:**
+
+**1. Criar a Reserva de Emergência**
+
+Antes de pensar em grandes lucros, deve garantir a sua segurança para imprevistos.
+
+**◻ Onde colocar:** Em investimentos de alta liquidez (que permitem o resgate imediato) e baixo risco.
+
+**◻ Sugestões dos especialistas:** Tesouro Selic (título público muito seguro) ou CDBs com liquidez diária que rendam pelo menos 100% do CDI. 
 
