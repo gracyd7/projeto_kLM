@@ -131,23 +131,23 @@ Títulos que financiam os setores de imóveis e agronegócio. A grande vantagem 
 
 Carteiras geridas por profissionais que aplicam a maior parte do património em diversos títulos de renda fixa.
 
-**2. Investimentos de Renda Variável**
+**2. INVESTIMENTOS DE RENDA VARIÁVEL**
 
 Aqui, não há garantias de ganho e os preços oscilam conforme a economia, política e o desempenho das empresas. O potencial de retorno é maior, mas o risco também é elevado.
 
-**➡ Ações:** Representam pequenas partes do capital de empresas listadas na Bolsa de Valores. Ao comprá-las, o investidor torna-se sócio da empresa, participando nos lucros (dividendos) e prejuízos.
+**✔ Ações:** Representam pequenas partes do capital de empresas listadas na Bolsa de Valores. Ao comprá-las, o investidor torna-se sócio da empresa, participando nos lucros (dividendos) e prejuízos.
 
-**➡Fundos Imobiliários (FIIs):** Permitem investir no mercado de imóveis sem ter de comprar um imóvel físico. O investidor recebe uma renda passiva mensal (semelhante a alugueres).
+**✔Fundos Imobiliários (FIIs):** Permitem investir no mercado de imóveis sem ter de comprar um imóvel físico. O investidor recebe uma renda passiva mensal (semelhante a alugueres).
 
-**➡ETFs (Exchange Traded Funds):** São fundos que replicam índices de referência, como o Ibovespa. Oferecem diversificação instantânea com um único investimento.
+**✔ETFs (Exchange Traded Funds):** São fundos que replicam índices de referência, como o Ibovespa. Oferecem diversificação instantânea com um único investimento.
 
-**➡Câmbio e Ouro:** Investimentos baseados na variação de moedas estrangeiras (como o Dólar) ou em metais preciosos, usados muitas vezes como proteção de património.
+**✔Câmbio e Ouro:** Investimentos baseados na variação de moedas estrangeiras (como o Dólar) ou em metais preciosos, usados muitas vezes como proteção de património.
 
-**3. Outros Tipos de Investimentos**
+**3. OUTROS TIPOS DE INVESTIMENTOS**
 
-**➡Fundos Multimercado:** Pertencem à renda híbrida. Investem em várias classes de ativos (renda fixa, ações, câmbio) para buscar retornos em diferentes cenários económicos.
+**✔Fundos Multimercado:** Pertencem à renda híbrida. Investem em várias classes de ativos (renda fixa, ações, câmbio) para buscar retornos em diferentes cenários económicos.
 
-**➡Previdência Privada:** Focada no longo prazo e no planeamento da reforma (aposentadoria). Pode oferecer benefícios fiscais dependendo do modelo escolhido
+**✔Previdência Privada:** Focada no longo prazo e no planeamento da reforma (aposentadoria). Pode oferecer benefícios fiscais dependendo do modelo escolhido
 
 
 
