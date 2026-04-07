@@ -82,8 +82,19 @@ Ao escolher uma aplicação, deve equilibrar três características fundamentais
 ### 5. O Poder do Tempo e dos Juros Compostos
 
 . O tempo é o melhor aliado do investidor iniciante.
-. Graças aos juros compostos (juros sobre juros), o capital cresce exponencialmente ao longo dos anos
-. Quanto mais cedo começar, menor será o esforço mensal necessário para atingir grandes patrimónios no futuro
+
+. Graças aos juros compostos (juros sobre juros), o capital cresce exponencialmente ao longo dos anos.
+
+. Quanto mais cedo começar, menor será o esforço mensal necessário para atingir grandes patrimónios no futuro.
+
+
+### 🛑 Erros a evitar de imediato
+
+**Deixar o dinheiro na poupança:** A rentabilidade é muito baixa e muitas vezes perde para a inflação.
+
+**Procurar enriquecimento rápido:** Desconfie de promessas de ganhos fáceis ou esquemas duvidosos; investir requer disciplina e tempo.
+
+**Ignorar taxas e impostos:** Custos como o Imposto de Renda (que costuma ser regressivo na renda fixa) e taxas de administração podem corroer o seu lucro
 
 
 
