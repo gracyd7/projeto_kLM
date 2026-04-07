@@ -189,7 +189,6 @@ Com os 50 mil reais, a forma como irá distribuir o dinheiro depende da sua tole
 ◼**Perfil Arrojado/Agressivo:** Aceita oscilações para ganhar mais a longo prazo. Pode diversificar entre Renda Fixa e ativos de Renda Variável, como Ações e ETFs
 
 
-> [!NOTE]
 > ### 3. Opções de Investimento Recomendadas
 
 De acordo com as fontes, estas são as opções mais indicadas para compor a sua carteira inicial:
@@ -203,7 +202,7 @@ De acordo com as fontes, estas são as opções mais indicadas para compor a sua
 | **ETFs** | Renda Variável | Diversificação instantânea ao replicar índices (ex: Ibovespa). | Alto |
 
 
-**`4.  Dicas de Ouro para os seus 50 mil`**
+> ### 4.  Dicas de Ouro para os seus 50 mil
 
 ◼**Diversificação:** É a regra número um. Distribua o valor entre diferentes classes de ativos para reduzir riscos.
 
@@ -214,6 +213,4 @@ De acordo com as fontes, estas são as opções mais indicadas para compor a sua
 ◼**Evite a Poupança:** Embora pareça simples, a sua rentabilidade é muito inferior a outras opções de Renda Fixa igualmente seguras
 .
 
-<div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; background-color: #f9f9f9;">
-  <h3 style="margin: 0;">3. Opções de Investimento Recomendadas</h3>
-</div>
+
