@@ -51,35 +51,32 @@ As instituições financeiras utilizam um questionário (conhecido como suitabil
 
 Os perfis dividem-se geralmente em:
 
-Conservador: Prioriza a segurança e estabilidade, aceitando rentabilidades mais modestas.
+✔ Conservador: Prioriza a segurança e estabilidade, aceitando rentabilidades mais modestas.
 
-Moderado: Procura um equilíbrio entre segurança e rentabilidade, aceitando um pouco mais de risco para ganhar mais.
+✔ Moderado: Procura um equilíbrio entre segurança e rentabilidade, aceitando um pouco mais de risco para ganhar mais.
 
-Arrojado/Agressivo: Tem maior experiência e tolerância a perdas no curto prazo, focando em retornos expressivos no longo prazo através da renda variável.
+✔ Arrojado/Agressivo: Tem maior experiência e tolerância a perdas no curto prazo, focando em retornos expressivos no longo prazo através da renda variável.
 
 
 ### 3. O "Tripé" dos Investimentos
 
 Ao escolher uma aplicação, deve equilibrar três características fundamentais:
 
-Liquidez: A facilidade de transformar o investimento em dinheiro disponível.
+✔ Liquidez: A facilidade de transformar o investimento em dinheiro disponível.
 
-Rentabilidade: O retorno financeiro (juros) esperado.
+✔ Rentabilidade: O retorno financeiro (juros) esperado.
 
-Segurança: O nível de risco de perda. Investimentos como o Tesouro Direto ou CDBs (protegidos pelo Fundo Garantidor de Crédito - FGC) são considerados mais seguros
+✔ Segurança: O nível de risco de perda. Investimentos como o Tesouro Direto ou CDBs (protegidos pelo Fundo Garantidor de Crédito - FGC) são considerados mais seguros
+
 
 ### 4. Renda Fixa vs. Renda Variável
 
 É crucial distinguir onde está a aplicar o seu capital:
 
-**Tipo**                   **Previsibilidade**            **Risco**               **Exemplos**
-Renda Fixa             Rentabilidade previsível        Baixo a Moderado     Tesouro Direto, CDB, LCI/LCA
-                         definida  no início      
-                         
-Renda Variável        Retorno imprevisível; o valor        Alto              Ações, Fundos Imobiliários, ETFs
-                      oscila conforme o mercado.
-
-
+| Tipo | Previsibilidade | Risco | Exemplos |
+| :--- | :--- | :--- | :--- |
+| **Renda Fixa** | Rentabilidade previsível ou definida no início. | Baixo a Moderado. | Tesouro Direto, CDB, LCI/LCA. |
+| **Renda Variável** | Retorno imprevisível; o valor oscila conforme o mercado. | Alto. | Ações, Fundos Imobiliários, ETFs. |
 
 
 
