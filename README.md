@@ -261,8 +261,10 @@ Nestes casos, o lucro que vê na simulação é exatamente o que cairá na sua c
 ◼ **Avalie a Rentabilidade Líquida:**  Nem sempre um investimento isento é melhor. Muitas vezes, um CDB que paga imposto pode render mais do que a poupança (que é isenta), mesmo após o desconto do IR.
 
 
-### 🟩 > `ALGUNS PROMPTS PARA ESTUDO` 
+> ### 🟩 `ALGUNS PROMPTS PARA ESTUDO` 
 
 ✔ Simule uma divisão dos 50 mil para o perfil moderado
+
 ✔ Como funciona o resgate do Tesouro Selic para emergências?
+
 ✔ Existem outros custos além do IR para os 50 mil?
