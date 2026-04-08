@@ -111,11 +111,11 @@ Existe ainda a *Renda Híbrida*, que combina características de ambas as catego
 
 **Abaixo, detalho os principais tipos de investimentos disponíveis no mercado:**
 
-> **`1. INVESTIMENTOS DE RENDA FIXA`**
+> ### `1. INVESTIMENTOS DE RENDA FIXA`
 
 Nesta categoria, o investidor conhece as regras de rendimento (ou uma estimativa próxima) no momento da aplicação.É considerada ideal para reserva de emergência e perfis conservadores.
 
-**◼Tesouro Direto:**
+**◼ Tesouro Direto:**
 
 Programa que permite a compra de títulos públicos federais. É considerado um dos investimentos mais seguros do país por ter a garantia do Governo Nacional.
 
@@ -131,7 +131,7 @@ Títulos que financiam os setores de imóveis e agronegócio. A grande vantagem 
 
 Carteiras geridas por profissionais que aplicam a maior parte do património em diversos títulos de renda fixa.
 
-> **`2. INVESTIMENTOS DE RENDA VARIÁVEL`**
+> ### `2. INVESTIMENTOS DE RENDA VARIÁVEL`
 
 Aqui, não há garantias de ganho e os preços oscilam conforme a economia, política e o desempenho das empresas. O potencial de retorno é maior, mas o risco também é elevado.
 
@@ -143,7 +143,7 @@ Aqui, não há garantias de ganho e os preços oscilam conforme a economia, pol�
 
 **◼ Câmbio e Ouro:** Investimentos baseados na variação de moedas estrangeiras (como o Dólar) ou em metais preciosos, usados muitas vezes como proteção de património.
 
-**3. OUTROS TIPOS DE INVESTIMENTOS**
+> ### `3. OUTROS TIPOS DE INVESTIMENTOS`
 
 **◼ Fundos Multimercado:** Pertencem à renda híbrida. Investem em várias classes de ativos (renda fixa, ações, câmbio) para buscar retornos em diferentes cenários económicos.
 
