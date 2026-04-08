@@ -25,7 +25,7 @@ Realizar um estudo no NotebookLM com 3 a 5 fontes textuais sobre finanças. Ser�
 
  1. Geral : Fazer uso do NotebooKLM para inserir uma base de conhecimento sobre investimentos ao iniciante.
 
- 2. Específicos : Fazer uso de prompts específicos para definir termos importantes sobre investimentos , tipos de investimentos , perfil do investidor , erros a evitar . 
+ 2. Específicos : Usar  prompts específicos para definir termos importantes sobre investimentos , tipos de investimentos , perfil do investidor , erros a evitar . 
 
 
 ## :chart_with_upwards_trend: INVESTIMENTOS PARA INICIANTE 
@@ -40,7 +40,7 @@ a instituições ou empresas.
 
 **Abaixo, apresento os pilares essenciais para quem está a dar os primeiros passos:**
 
-###  1. Defina Objetivos e a Reserva de Emergência
+> ###  `1. Defina Objetivos e a Reserva de Emergência`
 
 Ninguém deve começar a investir sem saber para que quer o dinheiro e em que prazo precisará dele.
 
@@ -49,31 +49,31 @@ Ninguém deve começar a investir sem saber para que quer o dinheiro e em que pr
 * **Objetivos de Curto, Médio e Longo Prazo:** Seja para trocar de carro, comprar casa ou preparar a reforma, cada meta ditará o tipo de investimento
     mais adequado.
 
-### 2. Descubra o seu Perfil de Investidor
+> ### `2. Descubra o seu Perfil de Investidor`
 
 As instituições financeiras utilizam um questionário (conhecido como suitability) para entender a sua tolerância ao risco.
 
 Os perfis dividem-se geralmente em:
 
-✔ **Conservador:** Prioriza a segurança e estabilidade, aceitando rentabilidades mais modestas.
+◼ **Conservador:** Prioriza a segurança e estabilidade, aceitando rentabilidades mais modestas.
 
-✔ **Moderado:** Procura um equilíbrio entre segurança e rentabilidade, aceitando um pouco mais de risco para ganhar mais.
+◼ **Moderado:** Procura um equilíbrio entre segurança e rentabilidade, aceitando um pouco mais de risco para ganhar mais.
 
-✔ **Arrojado/Agressivo:** Tem maior experiência e tolerância a perdas no curto prazo, focando em retornos expressivos no longo prazo através da renda variável.
+◼ **Arrojado/Agressivo:** Tem maior experiência e tolerância a perdas no curto prazo, focando em retornos expressivos no longo prazo através da renda variável.
 
 
-### 3. O "Tripé" dos Investimentos
+> ### `3. O "Tripé" dos Investimentos`
 
 Ao escolher uma aplicação, deve equilibrar três características fundamentais:
 
-✔ **Liquidez:** A facilidade de transformar o investimento em dinheiro disponível.
+◼ **Liquidez:** A facilidade de transformar o investimento em dinheiro disponível.
 
-✔ **Rentabilidade:** O retorno financeiro (juros) esperado.
+◼ **Rentabilidade:** O retorno financeiro (juros) esperado.
 
-✔ **Segurança:** O nível de risco de perda. Investimentos como o Tesouro Direto ou CDBs (protegidos pelo Fundo Garantidor de Crédito - FGC) são considerados mais seguros
+◼ **Segurança:** O nível de risco de perda. Investimentos como o Tesouro Direto ou CDBs (protegidos pelo Fundo Garantidor de Crédito - FGC) são considerados mais seguros
 
 
-### 4. Renda Fixa vs. Renda Variável
+> ### `4. Renda Fixa vs. Renda Variável`
 
 É crucial distinguir onde está a aplicar o seu capital:
 
@@ -83,7 +83,7 @@ Ao escolher uma aplicação, deve equilibrar três características fundamentais
 | **Renda Variável** | Retorno imprevisível; o valor oscila conforme o mercado. | Alto. | Ações, Fundos Imobiliários, ETFs. |
 
 
-### 5. O Poder do Tempo e dos Juros Compostos
+> ### `5. O Poder do Tempo e dos Juros Compostos`
 
 . O tempo é o melhor aliado do investidor iniciante.
 
@@ -111,43 +111,43 @@ Existe ainda a *Renda Híbrida*, que combina características de ambas as catego
 
 **Abaixo, detalho os principais tipos de investimentos disponíveis no mercado:**
 
-**1. INVESTIMENTOS DE RENDA FIXA**
+> **`1. INVESTIMENTOS DE RENDA FIXA`**
 
 Nesta categoria, o investidor conhece as regras de rendimento (ou uma estimativa próxima) no momento da aplicação.É considerada ideal para reserva de emergência e perfis conservadores.
 
-**✔ Tesouro Direto:**
+**◼Tesouro Direto:**
 
 Programa que permite a compra de títulos públicos federais. É considerado um dos investimentos mais seguros do país por ter a garantia do Governo Nacional.
 
-**✔ CDB (Certificado de Depósito Bancário):**
+**◼ CDB (Certificado de Depósito Bancário):**
 
 Títulos emitidos por bancos para captar recursos. Em troca de "emprestar" o dinheiro ao banco, o investidor recebe juros. Conta com a proteção do FGC (até R$ 250 mil).
 
-**✔ LCI e LCA (Letras de Crédito Imobiliário e do Agronegócio):**
+**◼ LCI e LCA (Letras de Crédito Imobiliário e do Agronegócio):**
 
 Títulos que financiam os setores de imóveis e agronegócio. A grande vantagem é a isenção de Imposto de Renda para pessoas físicas.
 
-**✔ Fundos de Renda Fixa:**
+**◼ Fundos de Renda Fixa:**
 
 Carteiras geridas por profissionais que aplicam a maior parte do património em diversos títulos de renda fixa.
 
-**2. INVESTIMENTOS DE RENDA VARIÁVEL**
+> **`2. INVESTIMENTOS DE RENDA VARIÁVEL`**
 
 Aqui, não há garantias de ganho e os preços oscilam conforme a economia, política e o desempenho das empresas. O potencial de retorno é maior, mas o risco também é elevado.
 
-**✔ Ações:** Representam pequenas partes do capital de empresas listadas na Bolsa de Valores. Ao comprá-las, o investidor torna-se sócio da empresa, participando nos lucros (dividendos) e prejuízos.
+**◼ Ações:** Representam pequenas partes do capital de empresas listadas na Bolsa de Valores. Ao comprá-las, o investidor torna-se sócio da empresa, participando nos lucros (dividendos) e prejuízos.
 
-**✔Fundos Imobiliários (FIIs):** Permitem investir no mercado de imóveis sem ter de comprar um imóvel físico. O investidor recebe uma renda passiva mensal (semelhante a alugueres).
+**◼ Fundos Imobiliários (FIIs):** Permitem investir no mercado de imóveis sem ter de comprar um imóvel físico. O investidor recebe uma renda passiva mensal (semelhante a alugueres).
 
-**✔ETFs (Exchange Traded Funds):** São fundos que replicam índices de referência, como o Ibovespa. Oferecem diversificação instantânea com um único investimento.
+**◼ ETFs (Exchange Traded Funds):** São fundos que replicam índices de referência, como o Ibovespa. Oferecem diversificação instantânea com um único investimento.
 
-**✔Câmbio e Ouro:** Investimentos baseados na variação de moedas estrangeiras (como o Dólar) ou em metais preciosos, usados muitas vezes como proteção de património.
+**◼ Câmbio e Ouro:** Investimentos baseados na variação de moedas estrangeiras (como o Dólar) ou em metais preciosos, usados muitas vezes como proteção de património.
 
 **3. OUTROS TIPOS DE INVESTIMENTOS**
 
-**✔Fundos Multimercado:** Pertencem à renda híbrida. Investem em várias classes de ativos (renda fixa, ações, câmbio) para buscar retornos em diferentes cenários económicos.
+**◼ Fundos Multimercado:** Pertencem à renda híbrida. Investem em várias classes de ativos (renda fixa, ações, câmbio) para buscar retornos em diferentes cenários económicos.
 
-**✔Previdência Privada:** Focada no longo prazo e no planeamento da reforma (aposentadoria). Pode oferecer benefícios fiscais dependendo do modelo escolhido
+**◼ Previdência Privada:** Focada no longo prazo e no planeamento da reforma (aposentadoria). Pode oferecer benefícios fiscais dependendo do modelo escolhido
 
 
 ### Resumo Comparativo
